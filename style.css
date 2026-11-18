@@ -1,0 +1,13 @@
+#headup{ background-color:rgb(30, 30, 145); color: white; font-family: Arial, Helvetica, sans-serif; text-align:center; padding:10px;}
+.subject{ font-family: monospace; font-size:20px; list-style-type:square;}
+#timetablehead{text-align:center; font-family:Arial, Helvetica, sans-serif; font-size:20px}
+table{border-collapse: collapse;}
+td{ border: 3px solid black; font-family:cursive; width: auto; text-align: center; vertical-align:middle; padding: 12px 8px;}
+th{ border: 3px solid black; font-family:cursive; width: auto; padding: 10px; margin: 10px; background-color:blue; text-align: center; color: white;}
+.break-time { background-color: lightcoral; }
+.day { background-color: lightblue; font-weight: bold;  color: blue;}
+#sub {color: blue;}
+#timetablehead {color: darkblue; background-color: lightgray;}
+.lb {background-color: lightblue;}
+.db {background-color: lightgray;}
+body { background-color:rgb(88, 206, 253); }
